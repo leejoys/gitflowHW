@@ -6,7 +6,7 @@ import (
 )
 
 func greet() {
-	fmt.Printf("Hello Word! %s", time.Now())
+	fmt.Printf("Hello World! %s", time.Now())
 }
 
 func main() {
